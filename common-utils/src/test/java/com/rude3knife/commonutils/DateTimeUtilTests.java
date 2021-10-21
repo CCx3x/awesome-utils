@@ -12,6 +12,9 @@ public class DateTimeUtilTests {
         assertEquals("00:30", DateTimeUtil.formatDuration(30));
         assertEquals("02:30", DateTimeUtil.formatDuration(150));
         assertEquals("01:00:50", DateTimeUtil.formatDuration(3650));
+        System.out.println("===========================================================");
+        System.out.println("====================GitHub Actions Demo====================");
+        System.out.println("===========================================================");
     }
 
 }
